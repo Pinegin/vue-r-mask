@@ -12,7 +12,7 @@
     "vue-r-mask": "file:vue-r-mask"
   },
   "devDependencies": {
-    "@vue/cli-service": "^3.4.0",
+    "@vue/cli-service": "^3.7.0",
     "vue-template-compiler": "^2.5.21"
   },
   "postcss": {
